@@ -2,6 +2,9 @@
 
 Sistema web para organizar grupos de trabajo
 
+![screencapture-localhost-3000-2023-08-15-18_52_04](https://github.com/Luiggi-piero/org/assets/86317658/9a2228e1-f254-4cff-aa52-7276429cd449)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
